@@ -3,7 +3,7 @@
     <ul class="flex space-x-6 text-white">
         <li><a href="/">Home</a></li>
         <li><a href="/plans">Plans</a></li>
-        <li><a href="/about">About</a></li>
+        <li><a href="/abouwt">About</a></li>
         <li><a href="/about">Contact Us</a></li>
     </ul>
 
