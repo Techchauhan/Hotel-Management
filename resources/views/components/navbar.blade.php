@@ -7,7 +7,10 @@
         <li><a href="/about">Contact Us</a></li>
     </ul>
 
-    <button class="bg-blue-700 text-white px-6 py-2 rounded-lg hover:bg-blue-600 transition">
-        Login/sinup
-    </button>
+   
+    <a href="{{ route('login') }}" class="bg-blue-700 text-white px-6 py-2 rounded-lg hover:bg-blue-600 transition">
+        Login/Signup
+    </a>
+
+    
 </nav>

@@ -40,6 +40,12 @@
                 Login
             </button>
         </form>
+
+        <hr class="border-t-2 border-gray-300 my-4">
+
+        <div class="text-center text-white">
+            <span>New user? </span><a href="{{ route('admin.register') }}">Register Now.</a>
+        </div>
     </div>
 </body>
 </html>
